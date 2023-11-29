@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//solo para prueba
 int main ()
 {
     printf("Hello world!\n");
